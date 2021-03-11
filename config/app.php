@@ -12,7 +12,7 @@ return [
     | any other location as required by the application or its packages.
     |
     */
-
+    'force_ssl' => env('FORCE_SSL',false),
     'name' => env('APP_NAME', 'Laravel'),
 
     /*
