@@ -6,7 +6,6 @@
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
-
     <title>{{ config('app.name', 'Laravel') }}</title>
     <!--↑　titleタグは後で必ず改修する-->
     <!--metaタグを追加する（弦巻）-->
@@ -27,9 +26,10 @@
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
 		<a class="navbar-brand" href="{{ url('/') }}">
-                   <h1 class="maintitle"> クリーニングWAVE 弦巻店</h1>
+		   <h1 class="maintitle"> クリーニングWAVE 弦巻店</h1>
+                   <p class="subtitle">弦巻でクリーニング店を選ぶならWAVE</p>
                    <!-- {{ config('app.name', 'Laravel') }}-->
-                </a>
+		</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -46,14 +46,14 @@
                         @guest
 			    <li class="nav-item">
 			       <a class="nav-link" href="{{ url('titosedai') }}">
-                                   <h1 class="nav-titose">千歳台店</h1>
+                                   <h1 class="nav-titose">WAVE千歳台店へ</h1>
                                </a>
                                <!-- <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>-->
                             </li>
                             @if (Route::has('register'))
 				<li class="nav-item">
 				   <a class="nav-link" href="{{ url('/') }}">
-                                     <h1 class="nav-turu">弦巻店</h1>
+                                    <!-- <h1 class="nav-turu">弦巻店</h1>-->
                                     </a>
                                    <!-- <a class="nav-link" href="{{ route('register') }}">{{ __('Register') }}</a>-->
                                 </li>

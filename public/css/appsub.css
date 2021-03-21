@@ -5,12 +5,12 @@ h1.maintitle
 	font-weight:bold;
 }
 h1.nav-turu{
-	font-size:25px;
+	font-size:20px;
 	font-weight:bold;
 	color:black;
 }
 h1.nav-titose{
-	font-size:25px;
+	font-size:20px;
 	font-weight:bold;
 	color:black;
 }
@@ -25,6 +25,7 @@ h1.nav-turu{
 h1.nav-titose{
         font-size:20px;
 }
-
-
+p.subtitle{
+	font-size:15px;
+}
 }
