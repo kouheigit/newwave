@@ -11,7 +11,7 @@
   <img class="img1"src="{{ asset('img/wave2.JPG') }}"alt="千歳台 クリーニング 世田谷区千歳台 シミ抜き とことん綺麗
 に クリーニングWAVE 店内"/>
 </p>
-<h6 class="news">お知らせ</h6>
+<h1 class="news">お知らせ</h1>
 <script src="{{ asset('js/img.js') }}"></script>
 </body>
 
