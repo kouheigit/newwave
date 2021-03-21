@@ -10,6 +10,10 @@ font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Min
 
 @media only screen and (min-width: 320px) and (max-width: 768px) {
 h1.news{
+     color:#1469e0;
+     font-weight:bold;
+     font-size:50px;
+     font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif,"Sawarabi Mincho";
      font-size:45px;
 }
 }          
