@@ -1,6 +1,7 @@
 @charset"utf-8";
 /*配置CSS*/
 h6.news{
+z-index:99;
 position:relative;
 margin-left:530px;
 }
