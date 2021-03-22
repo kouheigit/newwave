@@ -10,15 +10,13 @@
   <img class="img1"src="{{ asset('img/wave7.JPG') }}" alt="弦巻 クリーニング 世田谷区弦巻 シミ抜き とことん綺麗に クリーニングWAVE 店内外観">
 </p>
  <h6 class="news">お知らせ</h6>
- <div id="thenews">
   <div class="flame17">
    <p class="day">2020.3.15</p>
-   <a href="blog">
     <h2 class="kokuti">
-      春のクリーニングセール!!!
+　　 <a href="blog">
+        春のクリーニングセール!!!
+     </a>
     </h2>
-   </a>
   </div>
-</div>
 <script src="{{ asset('js/img.js') }}"></script>
 </body>
