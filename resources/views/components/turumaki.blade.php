@@ -13,11 +13,11 @@
  <div id="thenews">
   <div class="flame17">
    <p class="day">2020.3.15</p>
-   <h2 class="kokuti">
-     <a href="blog">
+   <a href="blog">
+    <h2 class="kokuti">
       春のクリーニングセール!!!
-      </a>
     </h2>
+   </a>
   </div>
 </div>
 <script src="{{ asset('js/img.js') }}"></script>
