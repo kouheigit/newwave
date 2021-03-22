@@ -2,6 +2,8 @@
 h1.title{
   margin-top:70px;
   margin-left:100px;
+  font-weight:bold;
+  color:red;
 }
 p.hiduke{
   position:absolute;

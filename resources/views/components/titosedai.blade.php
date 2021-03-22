@@ -13,7 +13,7 @@
 </p>
  <h6 class="news">お知らせ</h6>
   <div class="flame17">
-   <p class="day">2020.3.15</p>
+   <p class="day">2021.3.15</p>
     <h2 class="kokuti">
 　　 <a href="blog">春のクリーニングセール!!!</a>
     </h2>
