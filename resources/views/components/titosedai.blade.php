@@ -14,13 +14,12 @@
 
  <h6 class="news">お知らせ</h6>
   <div class="flame17">
+   <p class="day">2020.3.15</p>
    <h2 class="kokuti">春のクリーニングセール!!!</h2>
-   <h2 class="hiduke">3月15日〜5月30日(日)</h2>
-   <h2 class="hukudai">弦巻店、千歳船橋店両店対象</h2>
-    <h2 class="kokuti1">20%OFF</h2>
   </div>
 <script src="{{ asset('js/img.js') }}"></script>
 </body>
+
 
 
 

@@ -14,4 +14,8 @@ class mainController extends Controller
 	{
 		return view('main.titosedai');
 	}
+	public function blog(Request $request)
+	{
+		return view('main.blog');
+	}
 }

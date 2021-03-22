@@ -7,14 +7,9 @@ margin-left:530px;
 h2.kokuti{
 margin-left:260px;
 }
-h2.kokuti1{
-margin-left:350px;
-}
-h2.hiduke{
-margin-left:380px;
-}
-h2.hukudai{
-margin-left:300px;
+p.day{
+position:absolute;
+margin-top:5px;
 }
 @media only screen and (min-width: 320px) and (max-width: 768px) {
 
@@ -23,18 +18,10 @@ margin-top:-500px;
 margin-left:100px;
 }
 h2.kokuti{
+margin-top:10px;
 margin-left:0px;
 }
-h2.kokuti1{
-margin-left:0px;
-}
-h2.kokuti1{
-margin-left:0px;
-}
-h2.hiduke{
-margin-left:0px;
-}
-h2.hukudai{
-margin-left:0px;
+p.day{
+margin-top:-10px;
 }
 }

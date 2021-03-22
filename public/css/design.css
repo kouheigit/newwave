@@ -1,6 +1,9 @@
 @charset"utf-8";
 /*デザインCSS*/
 /*お知らせタグ*/
+a{
+   color:#000000;
+}
 h6.news{
 color:#1469e0;
 font-weight:bold;
@@ -10,15 +13,8 @@ font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Min
 h2.kokuti{
 font-size:42px;
 }
-h2.kokuti1{
-font-size:72px;
-font-weight:bold;
-color:red;
-}
-h2.hukudai{
-font-weight:bold;
-}
-h2.hiduke{
+p.day{
+font-size:30px;
 font-weight:bold;
 }
 /*セール枠*/
@@ -37,15 +33,8 @@ border-radius: 10px;
 h2.kokuti{
 font-size:22px;
 }
-h2.kokuti1{
-font-size:50px;
-}
-h2.hiduke{
-font-size:20px;
-}
-h2.hukudai{
-font-size:20px;
-font-weight:bold;
+p.day{
+font-size:10px;
 }
 }          
 
