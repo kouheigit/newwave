@@ -1,7 +1,7 @@
 <body>
- <link rel="stylesheet" href="{{ asset('css/body.css') }}">
- <link rel="stylesheet" href="{{ asset('css/img.css') }}">
-  <link rel="stylesheet" href="{{ asset('css/design.css') }}">
+   <link rel="stylesheet" href="{{ asset('css/body.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/img.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/design.css') }}">
  <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 
 <p id="slideshow"> 
@@ -13,9 +13,7 @@
   <div class="flame17">
    <p class="day">2020.3.15</p>
     <h2 class="kokuti">
-　　 <a href="blog">
-        春のクリーニングセール!!!
-     </a>
+　　 <a href="blog">春のクリーニングセール!!!</a>
     </h2>
   </div>
 <script src="{{ asset('js/img.js') }}"></script>
