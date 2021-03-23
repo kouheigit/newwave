@@ -1,20 +1,39 @@
 @charset"utf-8";
 /*配置CSS*/
+/*タイトル文字お知らせ*/
 h6.news{
 position:relative;
 margin-left:530px;
 }
+/*告知文　本文*/
 h2.kokuti{
 margin-left:260px;
 }
+/*告知文 日付*/
 p.day{
 position:absolute;
 margin-top:5px;
 font-size:30px;
 font-weight:bold;
-
+}
+/*見出し1*/
+#midashi1{
+margin-left:440px;
+margin-top:230px;
+}
+img.img2{
+margin-left:-230px;
+}
+p.setumei{
+margin-top:70px;
+margin-left:250px;
 }
 @media only screen and (min-width: 320px) and (max-width: 768px) {
+
+#midashi1{
+margin-left:0px;
+margin-top:90px;
+}
 
 h6.news{
 margin-top:-500px;
@@ -27,6 +46,22 @@ margin-left:0px;
 p.day{
 margin-top:-10px;
 font-size:10px;
-
 }
+img.img2{
+position:relative;
+margin-top:70px;
+margin-left:0px;
+}
+p.setumei{
+width: 100%;
+margin-bottom: 30px;
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+
 }

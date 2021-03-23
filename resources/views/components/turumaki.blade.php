@@ -16,5 +16,11 @@
 　　 <a href="blog">春のクリーニングセールのお知らせ!!!</a>
     </h2>
   </div>
+ <div id="midashi1">
+  <h2 class="midashi">WAVE弦巻店について</h2>
+　 <img class="img2"src="{{ asset('img/wave7.JPG') }}" alt="弦巻 クリーニング 世田谷区弦巻 シミ抜き とことん綺麗に クリ>ーニングWAVE ロゴ">
+</div>
+  <p class="setumei">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	    <br>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
 <script src="{{ asset('js/img.js') }}"></script>
 </body>

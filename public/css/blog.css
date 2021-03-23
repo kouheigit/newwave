@@ -20,6 +20,12 @@ p.sub{
 margin-left:110px;
 font-weight:bold;
 }
+#muryo{
+color:red;
+white-space: nowrap;
+width:250px;
+background: linear-gradient(transparent 50%, yellow 50%);
+}
 @media only screen and (min-width: 320px) and (max-width: 768px) {
 h1.title{
   font-size:30px;
