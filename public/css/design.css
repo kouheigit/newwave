@@ -21,7 +21,7 @@ h2.midashi:after {
     position: absolute;
     top: 50%;
     display: inline-block;
-    width: 50px;
+    width: 30px;
     height: 4px;
     background-color:blue;
 }
