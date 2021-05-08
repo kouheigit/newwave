@@ -79,18 +79,19 @@
 <div id="setu4">
 <div id="tokutyo4">
  <div class="waku">
-   <img src="img/sagyou3.png" class="zukei" width="200" height="200">
-    <span class="kasen">とことんシミ抜き</span>
+   <img src="img/bara.png" class="zukei" width="200" height="200">
+    <span class="kasen">溶剤がにおわない</span>
   <!--  <div class="kasenposition">
      <span class="kasen">シミ</span>
     </div>-->
-   <br>
-   <br>
-   <p>他店でオチなかったシミご相談下さい<br>
-   シミをつけてしまったらいじらずそのままお持ち下さい<br>
-   　　　　</p>
+   <p>パーク系溶剤は一般的に使用される石油系<br>
+   に比べ強力な洗浄力があります、ですので汚れ落ちが<br>
+   違います。白いものはより白く色物は鮮やかに<br>
+   また嫌な臭い残りがありません。</p>
+
   </div>
 </div>
+
 </div>
 
 <script src="{{ asset('js/img.js') }}"></script>

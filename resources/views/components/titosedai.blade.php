@@ -77,17 +77,20 @@
 <div id="setu4">
 <div id="tokutyo4">
  <div class="waku">
-   <img src="img/cloth15.png" class="zukei" width="200" height="200">
-    <span class="kasen">Wクリーニング無料</span>
+   <img src="img/sagyou3.png" class="zukei" width="200" height="200">
+    <span class="kasen">とことんシミ抜き</span>
   <!--  <div class="kasenposition">
      <span class="kasen">シミ</span>
     </div>-->
-   <p>油性と水溶性の汚れ臭いをしっかりと<br>
-      落として臭いをしっかりと落として　　<br>
-   スッキリさっぱりと仕上げます</p>
+   <br>
+   <br>
+   <p>他店でオチなかったシミご相談下さい<br>
+   シミをつけてしまったらいじらずそのままお持ち下さい<br>
+   　　　　</p>
   </div>
 </div>
 </div>
+
 
 <script src="{{ asset('js/img.js') }}"></script>
 </body>
