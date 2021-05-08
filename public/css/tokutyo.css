@@ -1,0 +1,75 @@
+
+
+.zukei {
+  clip-path: circle(90px at center);   /* 半径と画像の中心点（center)を指定 */
+}
+
+.waku {
+ margin: 2em auto;
+ padding: 1em;
+ width: 30%; /* ボックス幅 */
+ background-color: #00aaff; /* ボックス背景色 */
+ color: #000000; /* 文章色 */
+ box-shadow: 0 0 7px 3px #c0c0c0; /* 影 */
+ border-radius: 10px; /* 角の丸み */
+}
+
+
+.kasen {
+  position: absolute;
+  /* padding-top:20px;*/
+   margin-top:10px;*/
+   margin-left:300px;
+   font-size: 34.5px;
+   font-weight: 900;/*文字の太さ*/ 
+   background: linear-gradient(transparent 50%, #ffff00 65%);  /* ラインマーカーを付ける  */
+}
+
+.waku p{
+margin-top:-110px;
+margin-left:210px;
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+
+.zukei {
+ border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+ width:  90px;       /* ※縦横を同値に */
+ height: 90px;       /* ※縦横を同値に */
+/*
+ clip-path: circle(95px at center);
+*/ 
+}
+
+.waku {
+ margin: 2em auto;
+ padding: 1em;
+ width: 85%; /* ボックス幅 */
+ background-color: #00aaff; /* ボックス背景色 */
+ color: #000000; /* 文章色 */
+ box-shadow: 0 0 7px 3px #c0c0c0; /* 影 */
+ border-radius: 10px; /* 角の丸み */
+}
+
+
+.kasen {
+  position: absolute;
+  /* padding-top:20px;*/
+   margin-top:-10px;*/
+   margin-left:300px;
+   font-size: 20px;
+   font-weight: 900;/*文字の太さ*/
+   background: linear-gradient(transparent 50%, #ffff00 65%);  /* ライ
+ンマーカーを付ける  */
+}
+
+.waku p{
+font-size:12px;
+margin-top:-70px;
+margin-left:100px;
+}
+
+
+
+}
