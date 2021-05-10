@@ -11,6 +11,8 @@
   <img class="img1"src="{{ asset('img/wave7.JPG') }}" alt="弦巻 クリーニング 世田谷区弦巻 シミ抜き とことん綺麗に クリーニングWAVE 店内外観">
 </p>
  <h6 class="news">お知らせ</h6>
+  <br>
+  <br>
   <div class="flame17">
    <p class="day">2021.3.15</p>
     <h2 class="kokuti">
@@ -19,6 +21,10 @@
   </div>
  <div id="midashi1">
   <h2 class="midashi">WAVE弦巻店について</h2>
+   <br>
+   <br>
+   <br>
+   <br>
 　 <img class="img2"src="{{ asset('img/wave7.JPG') }}" alt="弦巻 クリーニング 世田谷区弦巻 シミ抜き とことん綺麗に クリ>ーニングWAVE ロゴ">
 </div>
 <!--
@@ -39,7 +45,8 @@
    <p>油性と水溶性の汚れ臭いをしっかりと
       落として臭いをしっかりと落として
      スッキリさっぱりと仕上げます</p>
-    <br>
+   <br>
+   <br>
   </div>
  </div> 
 </div>
@@ -85,10 +92,10 @@
      <span class="kasen">シミ</span>
     </div>-->
    <br>
-   <br>
    <p>他店でオチなかったシミご相談下さい<br>
    シミをつけてしまったらいじらずそのままお持ち下さい<br>
    　　　　</p>
+  <br>
   </div>
 </div>
 </div>
